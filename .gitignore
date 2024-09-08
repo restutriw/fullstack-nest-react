@@ -1,0 +1,10 @@
+# Mengabaikan node_modules di setiap service
+/expressjs-service/node_modules
+/nest-service/node_modules
+/frontend-service/node_modules
+
+# Mengabaikan log files
+*.log
+
+# Mengabaikan file environment
+*.env
